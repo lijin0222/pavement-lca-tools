@@ -1,1 +1,0 @@
-[DuboCalc](https://www.dubocalc.nl/en/) is a software tool for quick and easy calculation of sustainability and environmental design variants of ground, road and water works. DuboCalc is used by clients and (potential) contractors for writing and reviewing (EMAT) procurement of civil engineering works.
